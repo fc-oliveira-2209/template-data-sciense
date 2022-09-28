@@ -1,2 +1,2 @@
 # template-data-sciense
-comandos úteis para etl e data vizualization
+comandos para etl e data vizualization
